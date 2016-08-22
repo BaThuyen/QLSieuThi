@@ -1,0 +1,14 @@
+e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessLayer\bin\Debug\DataAccessObject.dll
+e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessLayer\bin\Debug\DataAccessObject.pdb
+e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

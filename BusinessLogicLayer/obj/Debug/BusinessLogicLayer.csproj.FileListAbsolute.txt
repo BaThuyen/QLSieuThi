@@ -1,0 +1,14 @@
+e:\documents\visual studio 2012\Projects\QLSieuThi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+e:\documents\visual studio 2012\Projects\QLSieuThi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+e:\documents\visual studio 2012\Projects\QLSieuThi\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+e:\documents\visual studio 2012\Projects\QLSieuThi\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+e:\documents\visual studio 2012\Projects\QLSieuThi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2012\Projects\QLSieuThi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+e:\documents\visual studio 2012\Projects\QLSieuThi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
