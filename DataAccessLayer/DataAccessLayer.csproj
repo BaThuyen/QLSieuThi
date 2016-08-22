@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAL.cs" />
+    <Compile Include="DALNhanVien.cs" />
     <Compile Include="Smarket.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

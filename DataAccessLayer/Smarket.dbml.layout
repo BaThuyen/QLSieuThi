@@ -1,161 +1,161 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12.375, 8.5" name="DataClasses1">
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 15.625" name="DataClasses1">
   <DataContextMoniker Name="/SmarketDataContext" />
   <nestedChildShapes>
-    <classShape Id="bc124600-4059-4ac7-ae8b-1ac810cd7508" absoluteBounds="5.125, 0.5, 2, 1.9631982421875">
+    <classShape Id="41fea756-9c3b-4d85-985c-b50b89a3f8f7" absoluteBounds="6.25, 8.75, 2, 1.9631982421874987">
       <DataClassMoniker Name="/SmarketDataContext/CT_HD" />
       <nestedChildShapes>
-        <elementListCompartment Id="e2580a13-547b-4bcd-9e9f-a6614bec1a64" absoluteBounds="5.1400000000000006, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="4a6c625f-c7ff-479d-873f-08c3c3746eb2" absoluteBounds="6.265, 9.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <classShape Id="e1d35b29-7855-4ab4-aef6-56367d0f3df6" absoluteBounds="2.75, 2.625, 2, 2.3478011067708335">
-      <DataClassMoniker Name="/SmarketDataContext/NHANVIEN" />
-      <nestedChildShapes>
-        <elementListCompartment Id="2d2091e1-59e8-4518-a8ce-7252f2d51c48" absoluteBounds="2.765, 3.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <classShape Id="b083fc16-613e-4fe0-b69b-67265a6902cd" absoluteBounds="2.75, 0.5, 2, 1.7708968098958331">
-      <DataClassMoniker Name="/SmarketDataContext/PHIEUNHAP" />
-      <nestedChildShapes>
-        <elementListCompartment Id="64b4ac7e-db75-4594-a571-7a67807ba387" absoluteBounds="2.765, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <associationConnector edgePoints="[(3.75 : 2.625); (3.75 : 2.27089680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
-      <AssociationMoniker Name="/SmarketDataContext/NHANVIEN/NHANVIEN_PHIEUNHAP" />
-      <nodes>
-        <classShapeMoniker Id="e1d35b29-7855-4ab4-aef6-56367d0f3df6" />
-        <classShapeMoniker Id="b083fc16-613e-4fe0-b69b-67265a6902cd" />
-      </nodes>
-    </associationConnector>
-    <classShape Id="65b3094a-3206-45e3-9fd8-feb78eae0c94" absoluteBounds="2.75, 5.5, 2, 1.3862939453125">
-      <DataClassMoniker Name="/SmarketDataContext/PHIEUXUAT" />
-      <nestedChildShapes>
-        <elementListCompartment Id="b6843c5a-2a73-4c05-b2f5-1b08146f1b1b" absoluteBounds="2.765, 5.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <associationConnector edgePoints="[(3.75 : 4.97280110677083); (3.75 : 5.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
-      <AssociationMoniker Name="/SmarketDataContext/NHANVIEN/NHANVIEN_PHIEUXUAT" />
-      <nodes>
-        <classShapeMoniker Id="e1d35b29-7855-4ab4-aef6-56367d0f3df6" />
-        <classShapeMoniker Id="65b3094a-3206-45e3-9fd8-feb78eae0c94" />
-      </nodes>
-    </associationConnector>
-    <classShape Id="1c866ace-d522-42c1-9086-d1d2578854bb" absoluteBounds="0.5, 0.5, 2, 1.7708968098958331">
+    <classShape Id="67660118-b981-4d8f-84e4-191c7cecf381" absoluteBounds="6.25, 6.25, 2, 1.7708968098958335">
       <DataClassMoniker Name="/SmarketDataContext/CT_PN" />
       <nestedChildShapes>
-        <elementListCompartment Id="caf61133-38b8-4261-ab13-fdff4ea6fdb7" absoluteBounds="0.515, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="413fac9c-ba39-447f-ba58-0572d4f9e0f7" absoluteBounds="6.2650000000000006, 6.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(2.75 : 1.38544840494792); (2.5 : 1.38544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
-      <AssociationMoniker Name="/SmarketDataContext/PHIEUNHAP/PHIEUNHAP_CT_PN" />
-      <nodes>
-        <classShapeMoniker Id="b083fc16-613e-4fe0-b69b-67265a6902cd" />
-        <classShapeMoniker Id="1c866ace-d522-42c1-9086-d1d2578854bb" />
-      </nodes>
-    </associationConnector>
-    <classShape Id="7b4fb435-0df2-4944-bd28-a8932f392606" absoluteBounds="5.125, 2.875, 2, 1.7708968098958331">
-      <DataClassMoniker Name="/SmarketDataContext/HOADONBAN" />
-      <nestedChildShapes>
-        <elementListCompartment Id="aebb1ab7-53ec-4f7c-b3c8-9b218b71a2a3" absoluteBounds="5.14, 3.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <associationConnector edgePoints="[(6.125 : 2.875); (6.125 : 2.4631982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
-      <AssociationMoniker Name="/SmarketDataContext/HOADONBAN/HOADONBAN_CT_HD" />
-      <nodes>
-        <classShapeMoniker Id="7b4fb435-0df2-4944-bd28-a8932f392606" />
-        <classShapeMoniker Id="bc124600-4059-4ac7-ae8b-1ac810cd7508" />
-      </nodes>
-    </associationConnector>
-    <associationConnector edgePoints="[(4.75 : 3.76044840494792); (5.125 : 3.76044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
-      <AssociationMoniker Name="/SmarketDataContext/NHANVIEN/NHANVIEN_HOADONBAN" />
-      <nodes>
-        <classShapeMoniker Id="e1d35b29-7855-4ab4-aef6-56367d0f3df6" />
-        <classShapeMoniker Id="7b4fb435-0df2-4944-bd28-a8932f392606" />
-      </nodes>
-    </associationConnector>
-    <classShape Id="caf4bce7-887e-41dd-8e1d-273a44314a57" absoluteBounds="5.125, 5.5, 2, 1.3862939453125">
+    <classShape Id="11374a17-d5fc-4bfd-8fed-887cc59010b6" absoluteBounds="6.25, 4, 2, 1.3862939453125005">
       <DataClassMoniker Name="/SmarketDataContext/CT_PX" />
       <nestedChildShapes>
-        <elementListCompartment Id="f7910fc8-a806-40f0-835a-4a5f5cbf3681" absoluteBounds="5.1400000000000006, 5.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="fadb4d0b-8b87-4167-92af-6597cf4f8332" absoluteBounds="6.2650000000000006, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(4.75 : 6.19314697265625); (5.125 : 6.19314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
-      <AssociationMoniker Name="/SmarketDataContext/PHIEUXUAT/PHIEUXUAT_CT_PX" />
-      <nodes>
-        <classShapeMoniker Id="65b3094a-3206-45e3-9fd8-feb78eae0c94" />
-        <classShapeMoniker Id="caf4bce7-887e-41dd-8e1d-273a44314a57" />
-      </nodes>
-    </associationConnector>
-    <classShape Id="5344c82c-f7de-42d4-ba9c-d580b7ec010f" absoluteBounds="10.125, 2.75, 2, 1.9631982421875">
+    <classShape Id="0a709b2d-1640-4a22-a824-4057336799ba" absoluteBounds="3.5, 10.75, 2, 1.9631982421875023">
       <DataClassMoniker Name="/SmarketDataContext/HANGHOA" />
       <nestedChildShapes>
-        <elementListCompartment Id="6b2a96e8-e5c5-487c-b320-e62751ae5d70" absoluteBounds="10.14, 3.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="5b41bd3f-832a-4723-a66f-5350b2f7bb15" absoluteBounds="3.515, 11.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(11.125 : 2.75); (11.125 : 1.48159912109375); (7.125 : 1.48159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(5.5 : 11.7315991210938); (7.25 : 11.7315991210938); (7.25 : 10.7131982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
       <AssociationMoniker Name="/SmarketDataContext/HANGHOA/HANGHOA_CT_HD" />
       <nodes>
-        <classShapeMoniker Id="5344c82c-f7de-42d4-ba9c-d580b7ec010f" />
-        <classShapeMoniker Id="bc124600-4059-4ac7-ae8b-1ac810cd7508" />
+        <classShapeMoniker Id="0a709b2d-1640-4a22-a824-4057336799ba" />
+        <classShapeMoniker Id="41fea756-9c3b-4d85-985c-b50b89a3f8f7" />
       </nodes>
     </associationConnector>
-    <associationConnector edgePoints="[(11.90625 : 4.7131982421875); (11.90625 : 6.7925439453125); (7.125 : 6.7925439453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(5.5 : 10.75); (5.875 : 10.375); (5.875 : 4.69314697265625); (5.97916666666667 : 4.69314697265625 : JumpStart); (6.14583333333333 : 4.69314697265625 : JumpEnd); (6.25 : 4.69314697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
       <AssociationMoniker Name="/SmarketDataContext/HANGHOA/HANGHOA_CT_PX" />
       <nodes>
-        <classShapeMoniker Id="5344c82c-f7de-42d4-ba9c-d580b7ec010f" />
-        <classShapeMoniker Id="caf4bce7-887e-41dd-8e1d-273a44314a57" />
+        <classShapeMoniker Id="0a709b2d-1640-4a22-a824-4057336799ba" />
+        <classShapeMoniker Id="11374a17-d5fc-4bfd-8fed-887cc59010b6" />
       </nodes>
     </associationConnector>
-    <classShape Id="12040336-4da7-4730-a530-adfed7f3722a" absoluteBounds="9.625, 5.25, 2, 1.3862939453125">
-      <DataClassMoniker Name="/SmarketDataContext/LOAIHANG" />
+    <classShape Id="adb0de8c-97ef-415f-8ed3-4447e45731a3" absoluteBounds="3.5, 6.875, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/SmarketDataContext/HOADONBAN" />
       <nestedChildShapes>
-        <elementListCompartment Id="23801c3e-f50b-491e-b372-09a2bd605840" absoluteBounds="9.64, 5.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="5e4015f9-48ad-4b7d-a940-5b39d057d8fb" absoluteBounds="3.515, 7.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(10.875 : 5.25); (10.875 : 4.7131982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
-      <AssociationMoniker Name="/SmarketDataContext/LOAIHANG/LOAIHANG_HANGHOA" />
+    <associationConnector edgePoints="[(4.5 : 8.64589680989583); (4.5 : 9.73159912109375); (5.79166666666667 : 9.73159912109375 : JumpStart); (5.95833333333333 : 9.73159912109375 : JumpEnd); (6.25 : 9.73159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SmarketDataContext/HOADONBAN/HOADONBAN_CT_HD" />
       <nodes>
-        <classShapeMoniker Id="12040336-4da7-4730-a530-adfed7f3722a" />
-        <classShapeMoniker Id="5344c82c-f7de-42d4-ba9c-d580b7ec010f" />
+        <classShapeMoniker Id="adb0de8c-97ef-415f-8ed3-4447e45731a3" />
+        <classShapeMoniker Id="41fea756-9c3b-4d85-985c-b50b89a3f8f7" />
       </nodes>
     </associationConnector>
-    <classShape Id="b4b115bd-a7c9-4d5e-9da7-69fa644e1544" absoluteBounds="0.5, 2.75, 2, 1.9631982421875">
-      <DataClassMoniker Name="/SmarketDataContext/NCC" />
-      <nestedChildShapes>
-        <elementListCompartment Id="23b74505-2ace-4b81-ae76-edb5aa046b3a" absoluteBounds="0.51499999999999968, 3.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <associationConnector edgePoints="[(2.5 : 2.75); (2.75 : 2.27089680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
-      <AssociationMoniker Name="/SmarketDataContext/NCC/NCC_PHIEUNHAP" />
-      <nodes>
-        <classShapeMoniker Id="b4b115bd-a7c9-4d5e-9da7-69fa644e1544" />
-        <classShapeMoniker Id="b083fc16-613e-4fe0-b69b-67265a6902cd" />
-      </nodes>
-    </associationConnector>
-    <classShape Id="d9d3b53b-7eaf-426a-ae41-a47a02ab9183" absoluteBounds="7.375, 5.375, 2, 1.1939925130208333">
-      <DataClassMoniker Name="/SmarketDataContext/QUAYHANG" />
-      <nestedChildShapes>
-        <elementListCompartment Id="9ba12e8b-6c59-4d89-b1f1-8ec3d2b32e4d" absoluteBounds="7.3900000000000006, 5.8350000000000009, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <associationConnector edgePoints="[(9.375 : 5.97199625651042); (9.625 : 5.97199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
-      <AssociationMoniker Name="/SmarketDataContext/QUAYHANG/QUAYHANG_LOAIHANG" />
-      <nodes>
-        <classShapeMoniker Id="d9d3b53b-7eaf-426a-ae41-a47a02ab9183" />
-        <classShapeMoniker Id="12040336-4da7-4730-a530-adfed7f3722a" />
-      </nodes>
-    </associationConnector>
-    <classShape Id="b1737c34-5e24-4eca-a182-71db313ac30c" absoluteBounds="7.5, 2.75, 2, 1.9631982421875">
+    <classShape Id="c5da6461-903c-428e-87b5-0a8bc6980fb7" absoluteBounds="0.75, 0.75, 2, 1.9631982421875005">
       <DataClassMoniker Name="/SmarketDataContext/KHACHHANG" />
       <nestedChildShapes>
-        <elementListCompartment Id="deebe9bc-48de-408f-9492-a65c3398d726" absoluteBounds="7.515, 3.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="21dce658-ec74-4215-a20e-2c4e066690c0" absoluteBounds="0.76500000000000012, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(7.5 : 3.76044840494792); (7.125 : 3.76044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(2.75 : 2.7131982421875); (3.125 : 3.0881982421875); (3.125 : 7.76044840494792); (3.5 : 7.76044840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
       <AssociationMoniker Name="/SmarketDataContext/KHACHHANG/KHACHHANG_HOADONBAN" />
       <nodes>
-        <classShapeMoniker Id="b1737c34-5e24-4eca-a182-71db313ac30c" />
-        <classShapeMoniker Id="7b4fb435-0df2-4944-bd28-a8932f392606" />
+        <classShapeMoniker Id="c5da6461-903c-428e-87b5-0a8bc6980fb7" />
+        <classShapeMoniker Id="adb0de8c-97ef-415f-8ed3-4447e45731a3" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="d5d4163b-5cca-45b5-b643-380643449dd1" absoluteBounds="0.75, 11, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/SmarketDataContext/LOAIHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="670e5300-7144-42c7-a254-a6c08e31c597" absoluteBounds="0.765, 11.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 11.6931469726563); (3.5 : 11.6931469726563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SmarketDataContext/LOAIHANG/LOAIHANG_HANGHOA" />
+      <nodes>
+        <classShapeMoniker Id="d5d4163b-5cca-45b5-b643-380643449dd1" />
+        <classShapeMoniker Id="0a709b2d-1640-4a22-a824-4057336799ba" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="ca788405-e011-4e36-abeb-da9d7cfeff7f" absoluteBounds="0.75, 7.5, 2, 1.9631982421875014">
+      <DataClassMoniker Name="/SmarketDataContext/NCC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70e70d82-4fe3-4ae0-a4fc-c112fa2ebbc4" absoluteBounds="0.765, 7.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f9151b77-1a4d-4b14-b604-62b4636b7f63" absoluteBounds="0.75, 3.5, 2, 2.3478011067708331">
+      <DataClassMoniker Name="/SmarketDataContext/NHANVIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="085c2aa3-384e-40b1-a1f9-52be50cca4b1" absoluteBounds="0.765, 3.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 5.78626164523237); (3.06607443490112 : 6.10233608013349 : JumpStart); (3.24642556509888 : 6.28268721033125 : JumpEnd); (3.3125 : 6.34876164523237); (3.3125 : 7.28647220247396); (3.5 : 7.28647220247396)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SmarketDataContext/NHANVIEN/NHANVIEN_HOADONBAN" />
+      <nodes>
+        <classShapeMoniker Id="f9151b77-1a4d-4b14-b604-62b4636b7f63" />
+        <classShapeMoniker Id="adb0de8c-97ef-415f-8ed3-4447e45731a3" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="df03c3bc-0b59-44c7-9364-0865cec95542" absoluteBounds="3.5, 0.875, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/SmarketDataContext/PHIEUNHAP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9eee37fc-9b55-4dec-9097-d0e4f0a4dddd" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 2.58459553570713); (6.0625 : 3.14709553570713); (6.0625 : 7.13544840494792); (6.25 : 7.13544840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SmarketDataContext/PHIEUNHAP/PHIEUNHAP_CT_PN" />
+      <nodes>
+        <classShapeMoniker Id="df03c3bc-0b59-44c7-9364-0865cec95542" />
+        <classShapeMoniker Id="67660118-b981-4d8f-84e4-191c7cecf381" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.56191525225361); (3.06607443490112 : 7.24584081735248 : JumpStart); (3.18392556509888 : 7.12798968715473 : JumpEnd); (3.1875 : 7.12441525225361); (3.1875 : 1.76044840494792); (3.5 : 1.76044840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SmarketDataContext/NCC/NCC_PHIEUNHAP" />
+      <nodes>
+        <classShapeMoniker Id="ca788405-e011-4e36-abeb-da9d7cfeff7f" />
+        <classShapeMoniker Id="df03c3bc-0b59-44c7-9364-0865cec95542" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.53076823076923); (3.12857443490112 : 3.15219379586811 : JumpStart); (3.24642556509888 : 3.03434266567035 : JumpEnd); (3.28125 : 2.99951823076923); (3.28125 : 2.23442460742187); (3.5 : 2.23442460742187)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SmarketDataContext/NHANVIEN/NHANVIEN_PHIEUNHAP" />
+      <nodes>
+        <classShapeMoniker Id="f9151b77-1a4d-4b14-b604-62b4636b7f63" />
+        <classShapeMoniker Id="df03c3bc-0b59-44c7-9364-0865cec95542" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="5bb09626-6ac9-45cd-a658-3d7f1b298dfa" absoluteBounds="3.5, 4, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/SmarketDataContext/PHIEUXUAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cbc21d97-c60d-46da-bd0e-152d0e85890b" absoluteBounds="3.515, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 4.28407348632813); (5.97916666666667 : 4.28407348632812 : JumpStart); (6.14583333333333 : 4.28407348632813 : JumpEnd); (6.25 : 4.28407348632813)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SmarketDataContext/PHIEUXUAT/PHIEUXUAT_CT_PX" />
+      <nodes>
+        <classShapeMoniker Id="5bb09626-6ac9-45cd-a658-3d7f1b298dfa" />
+        <classShapeMoniker Id="11374a17-d5fc-4bfd-8fed-887cc59010b6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.69314697265625); (3.04166666666667 : 4.69314697265625 : JumpStart); (3.27083333333333 : 4.69314697265625 : JumpEnd); (3.5 : 4.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SmarketDataContext/NHANVIEN/NHANVIEN_PHIEUXUAT" />
+      <nodes>
+        <classShapeMoniker Id="f9151b77-1a4d-4b14-b604-62b4636b7f63" />
+        <classShapeMoniker Id="5bb09626-6ac9-45cd-a658-3d7f1b298dfa" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="3827e895-f8c1-4478-9076-ef425593a411" absoluteBounds="1.5, 14.125, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/SmarketDataContext/QUAYHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ca2579bd-cc67-4ce1-a1a4-b4d2ba9dbabd" absoluteBounds="1.5149999999999997, 14.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.125 : 14.125); (2.125 : 12.3862939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SmarketDataContext/QUAYHANG/QUAYHANG_LOAIHANG" />
+      <nodes>
+        <classShapeMoniker Id="3827e895-f8c1-4478-9076-ef425593a411" />
+        <classShapeMoniker Id="d5d4163b-5cca-45b5-b643-380643449dd1" />
       </nodes>
     </associationConnector>
   </nestedChildShapes>

@@ -25,3 +25,4 @@ E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\PresenstationLayer\
 E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\PresenstationLayer\bin\Debug\BusinessLogicLayer.pdb
 E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\PresenstationLayer\bin\Debug\DataAccessLayer.pdb
 E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\PresenstationLayer\obj\Debug\PresenstationLayer.frmNhanVien.resources
+E:\Documents\Visual Studio 2012\Projects\QLSieuThi\QLSieuThi\PresenstationLayer\obj\Debug\PresenstationLayer.frmThongTinNV.resources
