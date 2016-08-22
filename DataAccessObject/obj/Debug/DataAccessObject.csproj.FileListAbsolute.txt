@@ -1,5 +1,0 @@
-e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessObject\bin\Debug\DataAccessObject.dll
-e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessObject\bin\Debug\DataAccessObject.pdb
-e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessObject\obj\Debug\DataAccessObject.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessObject\obj\Debug\DataAccessObject.dll
-e:\documents\visual studio 2012\Projects\QLSieuThi\DataAccessObject\obj\Debug\DataAccessObject.pdb
