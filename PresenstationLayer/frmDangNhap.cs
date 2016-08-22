@@ -34,6 +34,8 @@ namespace PresenstationLayer
             {
                 if (checkLog == "NV")
                 {
+                    frmNhanVien form = new frmNhanVien(txtAccount.Text);
+                    form.Show();
                 }
                 else MessageBox.Show("Sai thông tin đăng nhập!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
